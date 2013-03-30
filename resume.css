@@ -1,12 +1,12 @@
 body {
     background: #FBFBFB;
     color: #333;
-    font-family: Verdana, sans-serif;
+    font-family: Trebuchet MS, serif;
 }
 
 #container {
     margin: auto;
-    width: 7.5in;
+    width: 9.5in;
     padding: .5in;
 }
 
@@ -16,18 +16,23 @@ body {
 }
 
 #contact p {
-    margin: .5em;
+    margin: .2em;
+}
+
+#skills ul {
+	list-style-type: disc;
+	margin-bottom: 2em;
 }
 
 img {
-    padding: 4px;
-    border: 1px solid #ccc;
+    padding: 2px;
+    border: 0px solid #ccc;
     background: #fff;
 }
 
 a {
     text-decoration: none;
-    color: #333;
+    color: #808080;
 }
 
 a:hover {

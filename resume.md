@@ -1,71 +1,107 @@
-Markdown Resumé
+Tim van Boxtel
 ===============
 
-[Markdown](https://raw.github.com/mwhite/resume/master/resume.md) -> [PDF](https://raw.github.com/mwhite/resume/master/resume.pdf), [HTML](http://mwhite.github.com/resume), and more
-<http://github.com/mwhite/resume>
+60 Stafford St • Toronto, Canada 
+647-235-3981
+<tim@vanboxtel.ca>
+<http://tim.vanboxtel.ca>
 
-Interests
----------
 
-*   Creating beautiful resumés from simple Markdown documents
+Catchy One Liner
+-----------------
+
+*   Solving challenging problems through riguour, tenacity, and intellect
+
 
 
 Work Experience
 ---------------
 
-*   **Word Processor** (Redmond, WA)
+*   **Independent Contractor** - *Toronto Canada*
 
-    Junior Resumé Maker, 2006 - 2007
+    Freelance Engineer, 2011 - 2013
 
-    -   Intermingled presentation and content
-    -   Styling was a pain, so either didn't do it or found a half-decent
-        template and didn't mess with it
+    -   Diverse range of engineering and analytical solutions delivered to
+		clients such as electrical circuit design, software development
+	-	Projects completed quickly yet with a rigourous emphasis to detail
+	-  	Innovative solutions delivered to several Toronto start-ups
 
-*   **\LaTeX\ + pdflatex**
 
-    Senior Resumé Maker, 2008 - 2010
+*   **centrotherm Photovoltaics AG** - *Blaubeuren Germany*
 
-    -   Edited verbose \LaTeX\ documents in a text editor
-    -   Mixed content and presentation to achieve pixel-perfection
-    -   Installed and configured the unusual TeX setups required by the
-        best-looking \LaTeX\ resumés
+	Senior Process Engineer, 2008 - 2011
+    
 
-*   **LinkedIn, StackOverflow Careers, vizualize.me, etc**
+    - 	Part of a global team of engineers implementing innovative production
+		and equipment developments to the fast paced solar cell industry
+	-   Responsible for the commissioning of front-end solar cell manufacturing
+		equipment world wide
+	-	Optimized customer and in house photovoltaic manufacturing processes, to
+		improve overall through-put, yield, and electrical performance of manufactured
+		cells
 
-    Web Resumé Intern, August 2010
+*	**Teaching Assistant** - *Stuttgart Germany*
 
-    -   Entered data, adapting to different data models and formatting
-        limitations
-    -   Attempted to customize PDF exports and remove default resumé elements,
-        to no avail
+	Universitaet Stuttgart Physikalisches Institut, 2006-2007
 
-*   **Markdown with Pandoc**
+	-	Served as an academic teaching assistant in the electronics class for
+		undergraduate physics students
+	-	Oversaw groups of students working through various levels of practical 
+		circuit analysis and graded weekly reports
 
-    Resumé Architect, February 2011 - present
+*	**Educational Coordinator** - *Hamilton Canada*
 
-    -   Write in one format (Markdown), convert to many formats (PDF, HTML, ODT,
-        DOCX, and more)
-    -   Style HTML output with CSS and PDF output with a custom \LaTeX\ header
-    -   Use a simple pre-processor to define per-format operations on the
-        Markdown input or its parts, such as moving contact information to the
-        top right of the page in both HTML and PDF output.
-    -   Use a text-based resumé when needed in a pinch
-    -   Use version control, including free hosting on Github
+	McMaster Fireball Show, 2003-2004
+
+	-	Lead presenter of a touring interactive show aimed at attracting
+		students to science and engineering
+	-	Involved operating autonomously with a small team touring Ontario high schools,
+		performing a dynamic, interactive and entertaining presentation
+
+*	**Senior Team Member / Design Engineer / Driver** - *Hamilton Canada*
+
+	McMaster University Solar Car Project, 2003-2005 
+
+	-	Student team project to design, construct, and race solar powerered vehicles
+	-	During my involvement, 2 solar cars were built, which subsequently raced in
+		The cars participated in the 2004 FSGP and 2005 [NASC](http://americansolarchallenge.org/about/american-solar-challenge/)
 
 
 Education
 ---------
 
-*   **Github University** (World Wide Web)
+*   **Universitaet Stuttgart** (*Stuttgart, Germany*)
 
-    B.S. in Submodules, May 2012
+    M.Sc in Physics, *May 2008*
 
+*	**McMaster University** (*Hamilton, Canada*)
 
-Skills
+	B.Eng in Engineering Physics, *May 2005*
+
+*	**[Coursera](http://www.coursera.org)**, (*Continuing Education Platform*)  
+	
+	To date completed 5 courses in the areas of Economics, Finance, and Data Analysis with distinction and certificates where available.  *Dec. 2012 - Present*
+	
+
+Skills 
 ------
 
-*   Very experienced with Python, Markdown, \LaTeX
+*	Extremely diverse skill set with a very high capability to learn what
+	is required in order to solve a problem
+*	A broad understanding of physics and its applications to industry
+*	Strong working knowledge of programming, preferring *Python*
+*	Several years experience with standard Linux programs and their configurations, version control systems, preffering *git*
+*	Organized, diligent self-starter with an entrpreneurial spirit
+*	Very well travelled at a professional and personal level
+*	Fluent in English and German
 
-*   Familiar with GNU Make, bash
 
+Interests
+----------
 
+* 	Hobby musician, > 20 yrs experience playing guitar;  currently
+	becoming aquainted with the piano
+*	Love of all things science 
+*	Cooking, and more importantly, eating
+
+	
