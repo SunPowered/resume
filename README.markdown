@@ -1,6 +1,6 @@
-This is a simple Markdown resumé template, LaTeX header, and pre-processing
-script that can be used with [Pandoc](http://johnmacfarlane.net/pandoc/) to
-create professional-looking PDF and HTML output.
+This is a custom fork of mwhite's [resume](http://github.com/mwhite/resume) repository.
+It uses pandoc to generate the document based on customized templates.  
+
 
 Dependencies
 ------------

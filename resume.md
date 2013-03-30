@@ -22,9 +22,10 @@ Work Experience
     Freelance Engineer, 2011 - 2013
 
     -   Diverse range of engineering and analytical solutions delivered to
-		clients such as electrical circuit design, software development
-	-	Projects completed quickly yet with a rigourous emphasis to detail
-	-  	Innovative solutions delivered to several Toronto start-ups
+		clients such as electrical circuit design, software development,
+		anlysis
+	-	Work delivered quickly with a careful attention to detail
+	-  	Lean and innovative solutions delivered to several Toronto start-ups
 
 
 *   **centrotherm Photovoltaics AG** - *Blaubeuren Germany*
@@ -32,17 +33,18 @@ Work Experience
 	Senior Process Engineer, 2008 - 2011
     
 
-    - 	Part of a global team of engineers implementing innovative production
-		and equipment developments to the fast paced solar cell industry
+    - 	Part of a global team of engineers developing and implementing cutting 
+		edge solar cell manufacturing processes and equipment developments to the 
+		fast paced solar cell industry
 	-   Responsible for the commissioning of front-end solar cell manufacturing
-		equipment world wide
+		equipment globally
 	-	Optimized customer and in house photovoltaic manufacturing processes, to
 		improve overall through-put, yield, and electrical performance of manufactured
 		cells
 
 *	**Teaching Assistant** - *Stuttgart Germany*
 
-	Universitaet Stuttgart Physikalisches Institut, 2006-2007
+	Universität Stuttgart -  Physikalisches Institut, 2006-2007
 
 	-	Served as an academic teaching assistant in the electronics class for
 		undergraduate physics students
@@ -70,7 +72,7 @@ Work Experience
 Education
 ---------
 
-*   **Universitaet Stuttgart** (*Stuttgart, Germany*)
+*   **Universitiät Stuttgart** (*Stuttgart, Germany*)
 
     M.Sc in Physics, *May 2008*
 
@@ -78,7 +80,7 @@ Education
 
 	B.Eng in Engineering Physics, *May 2005*
 
-*	**[Coursera](http://www.coursera.org)**, (*Continuing Education Platform*)  
+*	**[Coursera](http://www.coursera.org)**, (*[MOOC](http://en.wikipedia.org/wiki/Massive_open_online_course) Platform*)  
 	
 	To date completed 5 courses in the areas of Economics, Finance, and Data Analysis with distinction and certificates where available.  *Dec. 2012 - Present*
 	
